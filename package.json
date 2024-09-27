@@ -1,0 +1,14 @@
+{
+  "name": "atv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atv.js",
+  "scripts": {
+    "start": "nodemon atv"
+  },
+  "author": "samuel andeson",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
